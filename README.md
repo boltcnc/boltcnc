@@ -14,3 +14,5 @@ The DFX files contain the part drawings, but no cutting information.  The CRV fi
  drill_fixture | Cut 1 copy.          | Fixture for horizontal drilling in clamps.
 
 ### All files are intended to fit within a 24" x 24" stock material.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
